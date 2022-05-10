@@ -214,6 +214,7 @@ export default function Home() {
                 <button
                   type="button"
                   onClick={buyCoffee}
+                  className={styles.button}
                 >
                   Send 1 Coffee for 0.001ETH
                 </button>

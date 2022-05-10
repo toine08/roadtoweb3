@@ -122,8 +122,11 @@
 .button{
   display: flex;
   justify-content: center;
+  height: 35px;
+  width: 100px;
+  border:none;
   align-items: center;
-  border-radius: 25%;
+  border-radius: 15%;
   background-color: #0070f3;
   color: white;
 }

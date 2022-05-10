@@ -169,7 +169,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Buy toine a Coffee!</title>
-        <meta name="description" content="Tipping site" />
+        <meta name="description" content="tip toto site" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
